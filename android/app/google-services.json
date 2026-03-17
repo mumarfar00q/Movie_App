@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484104164434",
+    "project_id": "m0vieapp-cbbd4",
+    "storage_bucket": "m0vieapp-cbbd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484104164434:android:13c8c28508b991c7bebb8b",
+        "android_client_info": {
+          "package_name": "com.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByn8Et23G381r4jZp1giVWymWt2kmBmXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
