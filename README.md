@@ -1,3 +1,4 @@
+HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -95,3 +96,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+# M0vie_App
+🎬 Movie App – React Native A modern movie browsing app built with React Native that lets users explore trending, upcoming, and top-rated films using the TMDB API. Features include detailed movie views, cast and actor profiles, global search, and a responsive UI optimized for Android and iOS, powered by Axios and React Navigation.
+ 7923a5f83163333e1fc7c7a94357151451ddd579
